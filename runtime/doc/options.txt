@@ -502,7 +502,7 @@ Examples:
    vi:noai:sw=3 ts=6 ~
    vim: tw=77 ~
 
-The second form (this is compatible with some versions of Vi):
+The second form (this is compatible with some pre-7.0 versions of Vi):
 
 	[text]{white}{vi:|vim:|Vim:|ex:}[white]se[t] {options}:[text]
 
